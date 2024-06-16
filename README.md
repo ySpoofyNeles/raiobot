@@ -1,6 +1,13 @@
 # ⚡ Raio App
-☆ Raio - Um simples e eficiente bot do discord.\n☆ Suporte: https://discord.gg/kCHz3dEACN\n☆ Website: https://raioapp.xyz/
+☆ Raio - Um simples e eficiente bot do discord.
 ### 🤔 Como adiciono o Raio?
-e
-saud
-asd
+
+
+
+
+
+
+
+
+☆ Suporte: https://discord.gg/kCHz3dEACN                                                                                                                                                                         
+☆ Website: https://raioapp.xyz/
