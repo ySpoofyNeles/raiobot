@@ -5,6 +5,6 @@
 ### 🤔 Como adiciono o Raio?
 Para adicionar o Raio ao seu servidor do discord é bem simples, utilize o link a seguir:                                                                                                                          
 * https://discord.com/oauth2/authorize?client_id=1251618180158193704&scope=bot&permissions=8                                                                                                                  
-e selecione o seu servidor do Discord, pronto! Você já poderá utilizar o **Raio**! 
-
+e selecione o seu servidor do Discord, pronto! Você já poderá utilizar o **Raio**!
+asdwe
 
