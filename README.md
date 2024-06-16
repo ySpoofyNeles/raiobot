@@ -13,4 +13,6 @@ de ajudar o Raio, você ganha um **Premium** no Raio, podendo ter novos comandos
 ### 💻 Comandos do Raio
 Para conseguir ver todos os comandos do Raio você pode entrar no site oficial do Raio, https://raioapp.xyz  
 e entrar na aba de comandos, mas caso queira ver os comandos pelo próprio Discord, utilize no Raio o comando  
-`/asjhd`
+`/ajuda` ou `/help`  
+
+⚡ Raio 2024 - © Todos os direitos reservados  
